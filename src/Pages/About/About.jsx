@@ -28,7 +28,7 @@ export default function About() {
             I keep my goals and tasks organized.
         </p>
         <p id="resume">
-            <a href="http://" target="_blank">
+            <a href="http://" target="_blank" rel="noreferrer">
                 <button className="cv">Download CV</button>
             </a>
         </p>

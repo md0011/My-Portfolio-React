@@ -10,7 +10,7 @@ export default function Project() {
         <h2>Calculator App</h2>
         <p className='details'>Build a basic Calculator app using HTML, CSS and JavaScript.</p>
         <p>
-          <a href="https://md0011.github.io/Calculator-App/" target="_blank">
+          <a href="https://md0011.github.io/Calculator-App/" target="_blank" rel="noreferrer">
             <button>See Project</button>
           </a>
         </p>
@@ -18,9 +18,9 @@ export default function Project() {
       <div className="card">
         <img src="Images/Refersion-UI.jpg" alt="Refersion UI - Pricing" />
         <h2>Refersion UI - Pricing</h2>
-        <p className='details'>Tried my hands on this beautiful UI using HTML & CSS.</p>
+        <p className='details'>Tried my hands on this beautiful UI using HTML and CSS.</p>
         <p>
-          <a href="https://md0011.github.io/Refersion-UI-Pricing/" target="_blank">
+          <a href="https://md0011.github.io/Refersion-UI-Pricing/" target="_blank" rel="noreferrer">
             <button>See Project</button>
           </a>
         </p>
@@ -30,7 +30,7 @@ export default function Project() {
         <h2>Random Quote Generator</h2>
         <p className='details'>It is capable of pulling quotes randomly from an API.</p>
         <p>
-          <a href="https://md0011.github.io/RandomQuoteGenerator/" target="_blank">
+          <a href="https://md0011.github.io/RandomQuoteGenerator/" target="_blank" rel="noreferrer">
             <button>See Project</button>
           </a>
         </p>
