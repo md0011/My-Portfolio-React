@@ -11,7 +11,7 @@ header::before {
 
 .navbar{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     flex-grow: 2;
     margin: 45px 15px 55px 10px;
   }
