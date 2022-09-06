@@ -1,5 +1,31 @@
 # Getting Started with Create React App
 
+## Technologies used
+
+- HTML
+
+- CSS
+
+- Javascript
+
+- React.js
+
+## File structure
+
+- public - Storing all images & gif related to project.
+
+- src/Pages - Storing all components we want to create and all styling related data.
+
+## Challenges
+
+- Make it responsive!
+
+- Make it as it is, which I structure for it.
+
+- At start, I created this portfolio using basic HTML & CSS. Then I want to convert it into Single Page Application that will be possible with React concepts like JSX, Router, etc.
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
