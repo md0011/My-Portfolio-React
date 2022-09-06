@@ -5,7 +5,7 @@ export default function Skills() {
   return (
     <StyledSkills>
     <div className="wrapper">
-        <div className="container-2">
+        <div className="container">
             <h1 id="title-skill">MY CODING SKILLS</h1>
             <div className="skills">
                 <div className="details" id="details-1">
@@ -37,7 +37,7 @@ export default function Skills() {
             <div className="skills">
                 <div className="details" id="details-4">
                     <span>React.js</span>
-                    <span>22%</span>
+                    <span>25%</span>
                 </div>
                 <div className="bar">
                     <div id="react-bar"></div>

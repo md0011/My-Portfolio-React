@@ -1,4 +1,4 @@
-import './Navbar.css';
+import './StyledNavbar.jsx';
 import './App.css';
 import React from "react";
 import Navbar from './Navbar';
@@ -7,6 +7,7 @@ import About from './Pages/About/About';
 import Skills from './Pages/Skills/Skills';
 import Project from './Pages/Projects/Project';
 import Contact from './Pages/Contact/Contact';
+
 import {
   BrowserRouter as Router,
   Routes,

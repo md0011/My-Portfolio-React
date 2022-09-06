@@ -5,6 +5,7 @@ import StyledProject from './StyledProject';
 export default function Project() {
   return (
     <StyledProject>
+      <div className="container">
       <div className="card">
         <img src="Images/Calculator.jpg" alt="Calculator App" />
         <h2>Calculator App</h2>
@@ -35,7 +36,7 @@ export default function Project() {
           </a>
         </p>
       </div>
-
+      </div>
     </StyledProject>
   )
 }
