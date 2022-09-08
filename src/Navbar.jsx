@@ -10,7 +10,7 @@ export default function Navbar() {
           <nav className="navbar">
             
             <div id="my-name">
-              <Link to="/Home">👨🏻‍💻Mayur Devle</Link>
+              <Link to="/Home"><span role='img' aria-label=''>👨🏻‍💻</span>Mayur Devle</Link>
             </div>
 
             <div className="nav-items">              
